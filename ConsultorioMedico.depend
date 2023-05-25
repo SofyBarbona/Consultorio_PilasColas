@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1684092610 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 2\enunciado2023\consultoriomedico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"consultorio.h"
+	"paciente.h"
+	"estudioSangre.h"
+	"cola.h"
+
+1684103523 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 2\enunciado2023\consultoriomedico\paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paciente.h"
+	"estudioSangre.h"
+
+1684092305 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 2\enunciado2023\consultoriomedico\consultorio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"consultorio.h"
+
+1684102139 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 2\enunciado2023\consultoriomedico\consultorio.h
+	"cola.h"
+	"paciente.h"
+
+1684088668 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 2\enunciado2023\consultoriomedico\estudiosangre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estudioSangre.h"
+
+1684092342 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 2\enunciado2023\consultoriomedico\paciente.h
+	"pila.h"
+	"estudioSangre.h"
+
+1684088663 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 2\enunciado2023\consultoriomedico\estudiosangre.h
+
+1684084976 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 2\enunciado2023\consultoriomedico\cola.h
+
+1684085063 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 2\enunciado2023\consultoriomedico\cola.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+
+1684103556 source:c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 2\enunciado2023\consultoriomedico\pila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1684091495 c:\users\sofibarbona\onedrive\facultad\4. algoritmos y estructuras de datos\unidad 2\enunciado2023\consultoriomedico\pila.h
+
